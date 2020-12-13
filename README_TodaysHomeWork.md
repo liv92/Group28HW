@@ -3,6 +3,8 @@
 
 Create HTML file with all proper head and title names
 
+title name is "Homework 1"
+
 in the body create different tags for:
 
 "Hello world!"
